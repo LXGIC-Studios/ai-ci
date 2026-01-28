@@ -1,5 +1,11 @@
 # ai-ci
 
+[![npm version](https://img.shields.io/npm/v/ai-ci.svg)](https://www.npmjs.com/package/ai-ci)
+[![npm downloads](https://img.shields.io/npm/dm/ai-ci.svg)](https://www.npmjs.com/package/ai-ci)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered CI/CD workflow generator. Creates GitHub Actions pipelines from project analysis.
+
 Setting up CI/CD from scratch is a pain. This tool looks at your project and generates the right GitHub Actions workflow for it.
 
 ## Install

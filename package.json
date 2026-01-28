@@ -10,11 +10,21 @@
     "build": "tsc"
   },
   "keywords": [
+    "ai",
+    "openai",
+    "gpt",
     "ci",
     "cd",
     "github-actions",
-    "ai",
-    "cli"
+    "continuous-integration",
+    "devops",
+    "workflow",
+    "automation",
+    "developer-tools",
+    "cli",
+    "typescript",
+    "nodejs",
+    "yaml"
   ],
   "license": "MIT",
   "dependencies": {
